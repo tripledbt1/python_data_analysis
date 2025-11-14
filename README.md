@@ -139,7 +139,7 @@ Maven Analytics: Python for Data Analysis Track
 
 ---
 
-📬 Questions or Improvements?
+## 📬 Questions or Improvements?
 
 Feel free to open an issue or continue expanding this repository.
 This is your long-term Python foundation — build it once, build it right.
