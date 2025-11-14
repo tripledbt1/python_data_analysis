@@ -122,16 +122,16 @@ This repo ensures you always have a solid reference.
 1. Clone the repo:  
    ```bash
    git clone https://github.com/tripledbt1/python_data_analysis.git
-```
+   
 2. Open in VS Code or Codespaces.
 
 3. Install Jupyter + Python extensions if needed.
 
 4. Run the notebooks
-
+````
 ---
 
-⭐ Acknowledgments
+## ⭐ Acknowledgments
 
 This repository is built in collaboration with ChatGPT as a learning partner,
 following a structured study plan aligned with:
