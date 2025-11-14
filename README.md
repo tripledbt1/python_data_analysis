@@ -21,20 +21,18 @@ This repo is built as a **master notebook library** that will grow with future t
 
 ## 📂 Repository Structure
 
-python_data-analysis/
-│
-├── notebook/
-│ ├── chapter01_data_types.ipynb
-│ ├── placeholder.txt
-│ └── (future chapters...)
-│
-├── data/
-│ └── placeholder.txt
-│
-├── scripts/
-│ └── placeholder.txt
-│
-└── README.md
+python_data_analysis/
+├── README.md
+├── master_notebook/
+│   └── python_data_analysis_master.ipynb
+├── chapters/
+│   ├── chapter01_data_types.ipynb
+│   ├── chapter02_variables.ipynb
+│   └── ...
+├── datasets/
+│   └── sample_data.csv
+└── exercises/
+    └──...
 
 ---
 
