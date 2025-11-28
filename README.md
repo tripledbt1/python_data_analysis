@@ -43,7 +43,7 @@ python_data_analysis/
 | `notebook/` | All polished chapter notebooks (Jupyter). |
 | `data/` | CSV or JSON files used for practice, exercises, and projects. |
 | `scripts/` | .py files to store reusable functions or automation (if needed later). |
-| `placeholder.txt` | Ensures folders sync to GitHub even when empty. |
+| `.gitkeep` | Ensures folders sync to GitHub even when empty. |
 
 ---
 
